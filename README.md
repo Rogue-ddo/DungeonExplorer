@@ -1,5 +1,5 @@
 # 🐦‍⬛ Welcome 🐦‍⬛
-These files are intented to be used with <img src="https://github.com/TormentedGothicPrincess/DungeonExplorer/raw/45208431b7582377276ae5b9eb82cd25c3ca2717/Images/about.png" width="25"> **[DungeonExplorer](https://github.com/TormentedGothicPrincess/DungeonExplorer)**, a enterprise reimagine of the Native [Dungeons & Dragons Online](https://www.ddo.com/home) Game Launcher provided by [TormentedGothicPrincess](https://www.twitch.tv/tormentedgothicprincess)! 
+My 'Bird' files here on Github are intented to be used with <img src="https://github.com/TormentedGothicPrincess/DungeonExplorer/raw/45208431b7582377276ae5b9eb82cd25c3ca2717/Images/about.png" width="25"> **[DungeonExplorer](https://github.com/TormentedGothicPrincess/DungeonExplorer)**, a enterprise reimagine of the Native [Dungeons & Dragons Online](https://www.ddo.com/home) Game Launcher provided by [TormentedGothicPrincess](https://www.twitch.tv/tormentedgothicprincess)! 
 
 Along with other QoL features, Dungeon Explorer allows for ease of installing UI Skins for DDO. No need to navigate your computer files to install a UI skin any longer, simply following the instructions below.
 
