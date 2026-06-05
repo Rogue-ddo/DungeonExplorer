@@ -4,7 +4,7 @@ My 'Bird' files here on Github are intented to be used with <img src="https://gi
 Along with other QoL features, Dungeon Explorer allows for ease of installing UI Skins for DDO. No need to navigate your computer files to install a UI skin any longer, simply following the instructions below.
 
 # 🧷 How to Install 🧷
-* Proceed to the [Github UI Skin Folder](https://github.com/Rogue-ddo/DungeonExplorer/tree/main/DDOUISKINS)
+* Proceed to the [DDOUISKINS](https://github.com/Rogue-ddo/DungeonExplorer/tree/main/DDOUISKINS)
 * Select the link of which Skin you wish to add
 * Copy the address link from your browser bar
 * On the Dungeon Explorer Skins Manager, Paste the address to URL box and click Install
