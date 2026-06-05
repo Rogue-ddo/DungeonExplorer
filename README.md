@@ -12,8 +12,8 @@ Along with other QoL features, Dungeon Explorer allows for ease of installing UI
 * Proceed to the bottom of the UI settings page, in the options menu
 * Select the 'Skin Name' under the Current User Skin
 * Press Alt+Z twice 
-*  This is to refresh the UI and remove elements of the default UI
-*  Needs to be done when logging in and when placing something on the hotbars
+  * This is to refresh the UI and remove elements of the default UI
+  * Needs to be done when logging in and when placing something on the hotbars
 
 <table>
   <tr>
