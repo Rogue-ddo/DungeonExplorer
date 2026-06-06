@@ -5,8 +5,7 @@ Along with other QoL features, Dungeon Explorer allows for ease of installing UI
 
 # 🧷 How to Install 🧷
 * Proceed to the [DDOUISKINS](https://github.com/Rogue-ddo/DungeonExplorer/tree/main/DDOUISKINS)
-* Select the link of which Skin you wish to add
-* Copy the address link from your browser bar
+* Right-click the file you wish to use, Copy link address
 * On the Dungeon Explorer Skins Manager, Paste the address to URL box and click Install
 * Launch the Game Client
 * Proceed to the bottom of the UI settings page, in the options menu
@@ -17,12 +16,13 @@ Along with other QoL features, Dungeon Explorer allows for ease of installing UI
 
 <table>
   <tr>
-    <th width="50%">Github UI Folder</th>
-    <th width="50%">Dungeon Explorer Skins Manager</th>
+    <th width="33%">Github UI Folder</th>
+    <th width="33%">Right-click Copy link address</th>
+    <th width="33%">Dungeon Explorer Skins Manager</th>
   </tr>
   <tr>
     <th><img alt="image" src="https://github.com/user-attachments/assets/3ef27796-adbb-4e66-8b4d-8f19b98f50fe" /></th>
+    <th><img alt="image" src="https://cdn.discordapp.com/attachments/1298488311253438484/1512606362289574020/image.png?ex=6a24b3f3&is=6a236273&hm=9374274013c54b2d9bc66a23ec7b7ca260c05aae1abdfb74d9349ac9f918004b&" /></th>
     <th><img alt="image" src="https://github.com/user-attachments/assets/9095a01c-ad79-438f-8b01-b624690cd93e" /></th>
   </tr>
 </table>
-
